@@ -22,5 +22,8 @@ The app uses local storage to save tasks, ensuring data persistence even after c
 - Undo delete functionality  
 - Gamification (points system)  
 - Responsive UI design  
+
+---
+
 ## 🌐 Live Demo
 [Open App](https://mohamedalamri606-dot.github.io/todo-app/)
